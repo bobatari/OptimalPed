@@ -6,7 +6,7 @@ Just thought this would be easier so you didnt have them on all the time. I.e. y
 ## Configure what peds to be swapped in the config. You can find peds on your own, I believe in you.
 
 ```
-Config.Peds = { --Add as many peds as you'd like here. 
+Config.Peds = { 
     {
         model = 'jackskellington', --This should be the ped spawn name. 
         location = vector3(241.94, -1398.34, 30.53), --Where to have the peds show up for 3rd eye'ing them.
@@ -22,6 +22,8 @@ Config.Peds = { --Add as many peds as you'd like here.
         location = vector3(250.00, -1390.00, 30.53),
         heading = 180.0
     }
+    -- Add more peds here as needed
+
 ```
 Preview:
 https://youtu.be/DhkxDat4W8I
