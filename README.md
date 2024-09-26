@@ -8,17 +8,17 @@ Just thought this would be easier so you didnt have them on all the time. I.e. y
 ```
 Config.Peds = { 
     {
-        model = 'jackskellington', --This should be the ped spawn name. 
+        model = 'beavis', --This should be the ped spawn name. 
         location = vector3(241.94, -1398.34, 30.53), --Where to have the peds show up for 3rd eye'ing them.
         heading = 135.0 --Direction they're facing.
     },
     {
-        model = 'Brook',
+        model = 'and',
         location = vector3(245.00, -1395.00, 30.53),
         heading = 90.0
     }, --dont forget the comma's
     {
-        model = 'Cuphead',
+        model = 'butthead',
         location = vector3(250.00, -1390.00, 30.53),
         heading = 180.0
     }
