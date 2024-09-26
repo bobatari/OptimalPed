@@ -1,5 +1,6 @@
 # OptimalPed
 Script lets you change your ped to a ped listed in the config file. This is not permanent and can be used for costume parties.
+This was created on qb-core.
 
 ## Configure what peds to be swapped in the config. You can find peds on your own, I believe in you.
 
