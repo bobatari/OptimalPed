@@ -1,6 +1,7 @@
 # OptimalPed
 Script lets you change your ped to a ped listed in the config file. This is not permanent and can be used for costume parties.
-This was created on qb-core.
+This was created on qb-core. To spawn the peds, use command /spawnpeds. This isnt a resource that starts up right away but it can be. 
+Just thought this would be easier so you didnt have them on all the time. I.e. you can have an event on halloween and only spawn these during that event time.
 
 ## Configure what peds to be swapped in the config. You can find peds on your own, I believe in you.
 
